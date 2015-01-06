@@ -1,0 +1,80 @@
+body{
+	background-color: black;
+	}
+
+center {
+	margin-left: auto;
+    margin-right: auto;
+	}
+	
+p {
+	font-family: Trebuchet MS; 
+	font-size: 14px;
+	color: white;
+	
+	}
+
+p.first {
+	font-size: 12px;
+	color: #D8D8D8;
+	
+	}
+
+h1 {
+	font-family: Calibri;
+	color:  #E0E0E0;	
+	}
+	
+h2 {
+	font-family: Calibri;
+	color:  #E0E0E0;	
+	}
+	
+h3 {
+	font-family: Calibri;
+	color:  #E0E0E0;
+	text-align: center;
+	}
+
+	
+h4 {
+	font-family: Trebuchet MS;
+	color:  #E0E0E0;
+	font-size: 15px;
+	text-align: center;
+		
+	}
+	
+ 
+.but {
+display: inline-block;
+color: #fff;
+background-color: #CC0000;
+padding: 10px 20px;
+text-decoration: none;
+box-sizing: border-box;
+font-family: Trebuchet MS;
+font-size: 14px;
+border: 0px;
+}
+
+table {
+ width:1024px;
+ _width:960px;
+}
+
+#celula1 {
+ width: 340px;
+ padding:5px;
+ _width: 340px;
+
+}
+#celula2 {
+ width: 300px;
+ padding:15px;
+ _width: 300px;
+}
+
+table#alter td {background:#000000;}
+table#alter tr.dif td {background:#242020;}
+
